@@ -23,23 +23,23 @@ Component List –
                 BC 547
                 
 2. Volume – B 100K
-3. 
-4. Resistor -  1 KΩ
+
+3. Resistor -  1 KΩ
               2.2 Ω
               100 Ω
               
-5. Capacitor - 100µf/ 35v
+4. Capacitor - 100µf/ 35v
                   µf/ 50v
                   
-6. Diode - 1N 4007
+5. Diode - 1N 4007
  
-7. Power Supply – DC 12v
+6. Power Supply – DC 12v
  
-8. Speaker
+7. Speaker
  
-9. Audio Input Cable
+8. Audio Input Cable
  
-10. PCB (JLCPCB)
+9. PCB (JLCPCB)
 
 
 Transistor Pin out
