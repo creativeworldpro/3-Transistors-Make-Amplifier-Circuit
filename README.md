@@ -42,7 +42,7 @@ Component List –
 9. PCB (JLCPCB)
 
 
-Transistor Pin out
+Transistor Pin out -
 
 We everybody knows that, all kind of transistor contain 3 legs. And all 3 legs have 3 different names. 
 To make this amplifier circuit connection, 1st we need to know about the pin out of this 3 transistor.
@@ -54,19 +54,19 @@ B 817 – B 817 is an PNP transistor. If we count it’s leg from left side, the
 BC 547 – BC 547 is an NPN transistor. If we count it’s leg from left side, then 1st leg “Collector” 2nd leg “Base” and 3rd leg “Emitter”
 
 
-Connect Transistor with Circuit
+Connect Transistor with Circuit -
 
 You know that, it is a transistor make amplifier circuit. For that to make this circuit 1st we need to connect transistor with circuit. We connect D-1047 and B-817 transistor with circuit. 
 We connect D-1047 transistor at left side and connect B-817 transistor at right side.
 
 
-Connect 2.2Ω Resistor with Circuit
+Connect 2.2Ω Resistor with Circuit -
 
 Now we connect 2.2 Ω resistors with D-1047 and B-817 transistor. We need 2 pieces resistor to make this amplifier circuit. 
 We connect this resistor with both transistor emitter leg and then connect both resistor empty legs. 
 
 
-Connect Resistor & Diode with Circuit
+Connect Resistor & Diode with Circuit -
 
 Then we need to connect two rectifier diode to make this amplifier circuit. We connect one diode negative leg with Base leg of B-817 transistor and then connect another diode positive leg with Base leg of D-1047 transistor. 
 We connect two diode two terminals with two transistor. Now we connect this two diode empty terminal. 
@@ -74,26 +74,26 @@ We connect two diode two terminals with two transistor. Now we connect this two 
 Now we connect 1K resistor with circuit. We connect this resistor with Base and Collector leg of D-1047 transistor.
 
 
-Connect BC-547 Transistor with Circuit
+Connect BC-547 Transistor with Circuit -
 
 Now we connect BC-547 transistor with circuit. We connect this transistor collector leg with Base leg of B-817 transistor and connect BC-547 transistor emitter leg with Collector leg of B-817 transistor.
 	
 
-Connect Capacitor with Circuit
+Connect Capacitor with Circuit -
 
 In the next step, we need to connect capacitor with circuit. 
 1st we connect 4.7µf/50v capacitor with circuit. We connect this capacitor negative leg with Base leg of BC-547 transistor.
 
 After this step, we connect 1000µf/35v capacitor with the amplifier circuit. We connect this capacitor positive leg with 2.2Ω resistor.
 
-Connect Volume with Amplifier
+Connect Volume with Amplifier -
 
 To adjust volume, now we need to connect B-100k volume with the circuit. We connect 4.7µf/50v capacitor positive leg with output leg of volume. Then connect Audio input cable with input leg of volume. 
 
 All kind of electronics component is now connected with the amplifier circuit. Now we need to solder the circuit. 
 
 
-Soldering & Cleaning Amplifier Circuit
+Soldering & Cleaning Amplifier Circuit -
 
 It’s the time to soldering and cut-off all extra leg of electronics component. Now we solder all component leg carefully and to make sure we need to check all of them for several times. We also remember that, 
 there should not be any kind of short circuit connection. For perfect inquiry, we should use liquid PCB cleaner to wash PCBs.
@@ -102,19 +102,19 @@ there should not be any kind of short circuit connection. For perfect inquiry, w
 Thanks to JLCPCB, for sponsor us such a quality PCB board.
 
 
-Connect Audio Input Cable with Circuit
+Connect Audio Input Cable with Circuit -
 
 To input audio, now we connect audio input cable with the circuit. We connect audio input “Ground” cable with input leg of volume/ potentiometer and connect audio input “Right” cable with the empty leg of volume.
 
 
-Connect Power Source & Speaker Cable
+Connect Power Source & Speaker Cable -
 
 To operate this amplifier circuit, we are using only DC-12v power supply circuit. We connect this 12v power supply negative cable with Collector leg of B-817 transistor and connect positive cable with collector leg of D-1047 transistor. 
 
 For audio output, now we need to connect speaker cable with the amplifier circuit. We connect this speaker cable with volume and negative leg of 1000µf/35v capacitor.
 
 
-Enjoy Music
+Enjoy Music -
 
 Our circuit is now, finally ready for use. We just connect audio device with audio input cable and plug-in power supply of this amplifier circuit.
 
